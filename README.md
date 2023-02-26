@@ -6,11 +6,11 @@ It offers over 400 components and interactive elements, as well as dark mode sup
 
 ![image](https://user-images.githubusercontent.com/73644573/221402945-e336835c-18d3-4fd1-be91-2a729aaec4c0.png)
 
-Site URL: https://santosharron.github.io/Tailwind-CSS-Template/
+Site URL: https://tailwind-template-santosharron.netlify.app/
 
 # How to use this Template
 
-1. Go to this template: https://santosharron.github.io/Tailwind-CSS-Template/
+1. Go to this template: https://tailwind-template-santosharron.netlify.app/
 ![image](https://user-images.githubusercontent.com/73644573/221402945-e336835c-18d3-4fd1-be91-2a729aaec4c0.png)
 
 2. Select the Component you want.
